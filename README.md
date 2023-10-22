@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LetsChaos
 - 👀 I’m interested in forensics, kali, medicine and cats
-- 🌱 I’m currently learning java and linux
+
 
 
 <!---
