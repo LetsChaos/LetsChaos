@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @LetsChaos
-- 👀 I’m interested in forensics, kali, medicine and cats
-
+Interested in forensics, pentests, maleware analytics and coffee
 
 
 <!---
