@@ -1,4 +1,5 @@
 Interested in forensics, pentests, maleware analytics and coffee
+Hops for the best, thinks about the worst
 
 
 <!---
