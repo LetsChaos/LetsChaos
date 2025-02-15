@@ -1,5 +1,5 @@
-Interested in forensics, pentests, maleware analytics and coffee
-Hops for the best, thinks about the worst
+Interested in forensics, pentests, maleware analytics and coffee.
+Hopes for the best, thinks about the worst
 
 
 <!---
