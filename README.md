@@ -1,6 +1,8 @@
 Interested in forensics, pentests, maleware analytics and coffee.
 Hopes for the best, thinks about the worst
 
+Python, C++, Bash
+
 
 <!---
 LetsChaos/LetsChaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
